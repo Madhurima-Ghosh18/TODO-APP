@@ -1,12 +1,22 @@
 
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ToDoApp # 
 
-Currently, two official plugins are available:
+## Overview
+ToDoApp is a user-friendly task management application that helps you stay organized and on top of your tasks. The app allows you to add tasks, mark them as done with a strikethrough, delete tasks, and rearrange tasks based on priority by moving them up and down the list.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+* Add new tasks to the list.
+* Mark tasks as done with a strikethrough.
+* Delete tasks from the list.
+* Move tasks up and down to adjust their priority.
 
-# TODO-APP
+### install dependencies
+
+npm install
+
+### start the server
+
+npm run dev
 
